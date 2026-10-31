@@ -1,0 +1,5 @@
+com\tecmilenio\evidencia\model\File.class
+com\tecmilenio\evidencia\model\Notify.class
+com\tecmilenio\evidencia\controller\ApiController.class
+com\tecmilenio\evidencia\model\User.class
+com\tecmilenio\evidencia\model\Directory.class
